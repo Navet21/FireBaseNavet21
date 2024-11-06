@@ -1,10 +1,8 @@
 {
   "hosting": {
-    "public": "public",
-    "ignore": [
-      "firebase.json",
-      "**/.*",
-      "**/node_modules/**"
-    ]
+  "github": {
+    "repo": "github-Navet21/FireBaseNavet21",
+    "branch": "main"
   }
+}
 }
